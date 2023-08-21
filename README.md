@@ -19,9 +19,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='"C:\Users\ajays\OneDrive\Desktop\pre-work-web102.gif"' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
+<img src='assets/web102-prework.gif' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
 
-GIF created with ScreenToGif
+GIF created with LiceCap
 
 ## Notes
 
