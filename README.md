@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZxYmg5ODBxbXBnZTdpNTQ4M2VwZGRrbTM0NzNxdmF3bTJhcmRjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kfXb58UQjnd5VwDxkp/giphy.gif' title='Video Walkthrough' width='600px' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZxYmg5ODBxbXBnZTdpNTQ4M2VwZGRrbTM0NzNxdmF3bTJhcmRjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kfXb58UQjnd5VwDxkp/giphy.gif' title='Video Walkthrough' width='80%' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif
 
