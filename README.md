@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZxYmg5ODBxbXBnZTdpNTQ4M2VwZGRrbTM0NzNxdmF3bTJhcmRjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kfXb58UQjnd5VwDxkp/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZxYmg5ODBxbXBnZTdpNTQ4M2VwZGRrbTM0NzNxdmF3bTJhcmRjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kfXb58UQjnd5VwDxkp/giphy.gif' title='Video Walkthrough' width='600px' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif
 
@@ -29,7 +29,7 @@ I didn't face any difficulty in completing the pre-work.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Codepath.org]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
